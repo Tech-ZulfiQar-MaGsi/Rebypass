@@ -83,7 +83,7 @@ def ok():
 	if haha =='':
 		ok()
 	elif haha =='1':
-		os.system('python2 Raja.py')
+		os.system('python2 raja.py')
 	elif haha =='2':
 		os.system('python Adf.py')
 	elif haha =='3':
